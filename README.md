@@ -14,7 +14,7 @@ advanced for structuring this as one </blockquote>
 
 <li>Josué Daniel Ponce Vallejo [00330341]</li>
 
-<li>Felipe José Rodríguez Gavela [330528]</li>
+<li>Felipe José Rodríguez Gavela [00330528]</li>
 
 <li>Santiago Francisco Arellano Jaramillo [00328370]</li>
 
